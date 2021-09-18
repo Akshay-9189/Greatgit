@@ -1,5 +1,5 @@
 package com.csi.hibernatebasic;
-
+// added by ganesh
 public class Employee {
 private int empId;
 private String empName;
